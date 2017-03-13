@@ -1,6 +1,6 @@
 ```php
  require: 
- "musingsz/aliyun-push-mail":"0.6"
+ "musingsz/aliyun-push-mail":"*"
   ```
 
 ```php
