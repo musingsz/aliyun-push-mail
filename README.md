@@ -2,8 +2,8 @@
 
 ```php
 'aliyun-mail' => [
-	'accessKey' => 'gw9QdAXXXYjR1Uu', 
-	'accessSecret' => 'dyOOXvXXXXXXXXAgr7hXJCr5wdBDd', 
+	'accessKey' => 'XXXXXXXXXXXXXXX', 
+	'accessSecret' => 'XXXXXXXXXXXXXXXXXXXXXXXXXXX', 
 	'accountName' => 'xxxxxxx@mail.xxxyu.com', 
 	'fromAlias' => 'Crewing'
 	]
