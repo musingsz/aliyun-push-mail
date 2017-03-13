@@ -1,0 +1,21 @@
+{
+    "name": "sanyc/aliyun-mail",
+    "description": "使用阿里云邮件推送服务",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "sanyc",
+            "email": "9714928@qq.com"
+        }
+    ],
+    "require": {
+        "php":">=5.4"
+    },
+    "autoload":{
+        "psr-4": {
+            "Sanyc\\Aliyun\\": "src",
+            "Sanyc\\Aliyun\\SDK\\": "src/aliyun-php-sdk",
+            "Sanyc\\Aliyun\\DM\\": "src/aliyun-php-sdk-dm"
+        }
+    }
+}
