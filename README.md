@@ -1,4 +1,7 @@
-
+```php
+ require: 
+ "musingsz/aliyun-push-mail":"0.6"
+  ```
 
 ```php
 'aliyun-mail' => [
