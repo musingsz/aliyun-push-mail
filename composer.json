@@ -1,11 +1,11 @@
 {
-    "name": "sanyc/aliyun-mail",
-    "description": "使用阿里云邮件推送服务",
+    "name": "musingsz/aliyun-push-mail",
+    "description": "Aliyun push mail",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "sanyc",
-            "email": "9714928@qq.com"
+            "name": "Leo",
+            "email": ""
         }
     ],
     "require": {
